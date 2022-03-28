@@ -97,7 +97,7 @@ function Room() {
 							changeStatus(idProduct);
 						}}
 					>
-						{product}-{idProduct}-{status ? 'true' : 'false'}
+						{product}
 					</button>
 				</div>
 			))}
